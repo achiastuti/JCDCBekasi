@@ -1,4 +1,4 @@
-# input = [2,4,6,8]
+git # input = [2,4,6,8]
 # j = map(lambda x: x**2, input)
 # print(list(j))
 
