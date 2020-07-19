@@ -244,15 +244,15 @@
 
 
 # # soal 2
-# def level2(s):
-#   b = ''
-#   a = s.split(' ')
-#   for x in a:
-#     b += x[::-1] + ' '
-#   print(b[:-1])
+def level2(s):
+  b = ''
+  a = s.split(' ')
+  for x in a:
+      b += x[::-1] + ' '
+  print(b)
 
 
-# level2('sarung bapak saya')
+level2('this is another')
 
 
 # soal 3
