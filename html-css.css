@@ -1,0 +1,30 @@
+table,
+th {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table,
+td {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  text-align: left
+}
+
+h1 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: rebeccapurple
+}
+
+.mobil {
+  color: blue
+}
+
+#avanza {
+  color: greenyellow
+}
